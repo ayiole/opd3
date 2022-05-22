@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6U9myW+eRMI6pyJ3PyOsiOpfDnW4p62A6AeW7JpweuSC9Tu+AHMn6SoZGeS9aAcHFEJZsVsVYyL8/rOAxYPUjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iHons\\Desktop\\Bubble\\Bubble\\Bubble.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iHons\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\iHons\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\iHons\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
